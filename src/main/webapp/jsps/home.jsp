@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Mithun Software Solutions- Very Good Training school for java with AWS in Maratha vally Bangalore london,australia and is it,top for good full job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center"> Mithun Software Solutions- Very Good Training school for java with AWS in Maratha vally Bangalore london,australia and is it,soo longer for good full job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
